@@ -1,8 +1,8 @@
 class MdViewer < Formula
   desc "Preview Markdown files clicked in Rex terminal panes"
   homepage "https://github.com/good-banana/rexworks/tree/main/md-viewer"
-  url "https://github.com/good-banana/rexworks/archive/refs/tags/md-viewer-v0.2.1.tar.gz"
-  sha256 "8e7b4e07e310974fc56e2d0405bcf22dc6152bedaf86286ad8da16247b924232"
+  url "https://github.com/good-banana/rexworks/archive/refs/tags/md-viewer-v0.3.0.tar.gz"
+  sha256 "2f74fb55dab72fa97b86ef2fa6905cf90c8c9d375e002a7ef952c7b6f010ef6a"
 
   depends_on macos: :sonoma
 
